@@ -1,3 +1,4 @@
+REMOTE
 # GitConflict
 
 This is a test.
