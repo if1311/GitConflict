@@ -1,3 +1,4 @@
+LOCAL
 # GitConflict
 
 This is a test.
